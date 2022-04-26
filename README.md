@@ -5,4 +5,10 @@ This WordPress must-use plugin provides added functionality to the [OpenID Conne
 ## Documentation
 
 - [Auto-generated Documentation](docs/home.md)
+
+
+
+
+
+
 ![KC CONGIF EXAMPLE](https://user-images.githubusercontent.com/11094004/104828938-d3eb6b80-586e-11eb-8687-3d463f9e3b36.png)
